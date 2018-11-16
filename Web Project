@@ -1,12 +1,19 @@
 <html>
   <title>
-  Dylan's Website
+    Dylan's Website
+  <tile>
+  
+  <body>
+    This is a website that descirbes my life
+  <body>
+  
   <style>
     body {
      color: #fff;
      background-color: Blue;
      text align: center;
-     }
+    }
    <style>
    
+   <html>
      
